@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "quarter": "Q3 2026",
+    "quarterStart": "2026-08-01",
+    "quarterEnd": "2026-10-31",
+    "generatedFor": "2026-08-24",
+    "sourceLastGenerated": "2026-08-04T00:00:00"
+  },
+  "branch": {
+    "id": "mckinney",
+    "name": "McKinney",
+    "lastSync": "2026-08-18"
+  },
+  "managers": [
+    {
+      "id": "khevan-dueck",
+      "name": "Khevan Dueck",
+      "role": "BM",
+      "goals": [
+        {
+          "id": 1,
+          "name": "Mover Training App",
+          "thresholds": {
+            "superGreen": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete FULL pipeline (Lead Ready) by 10/19.",
+            "green": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete through stage 4 by EOQ.",
+            "red": "Less than 70% of enrolled movers complete through stage 4 by EOQ."
+          },
+          "status": "not_started",
+          "currentValue": "SOP training DONE. Movers blocked by Mike until 8/20.",
+          "notes": "Both submitted SOP training screenshots. Mike uploading movers 8/19, activation 8/20.",
+          "nextAction": "Hit ground running on mover training 8/20-21; brief absent movers (Sterling)",
+          "lastUpdated": "2026-08-18"
+        },
+        {
+          "id": 2,
+          "name": "Individual Sales Goal",
+          "thresholds": {
+            "superGreen": "110%+ to quarterly sales goal",
+            "green": "100%+ to quarterly sales goal",
+            "red": "Less than 100% to quarterly sales goal"
+          },
+          "status": "super_green",
+          "currentValue": "57% MTD, 26% remaining for quarter. 4K ahead of pace.",
+          "notes": "Super green confirmed. Leading DFW at 70% branch sales vs 52% company. Praise at 217%. Needs 3 more logged.",
+          "nextAction": "Maintain pace; log 3 more praise entries by 8/22",
+          "lastUpdated": "2026-08-18"
+        },
+        {
+          "id": 3,
+          "name": "Scrum University",
+          "thresholds": {
+            "superGreen": "Scrum certification completed and 90+ grade on board scoring",
+            "green": "Scrum certification completed and 80+ grade on board scoring",
+            "red": "Any manager at branch not completed with scrum certification and/or board score below 80"
+          },
+          "status": "blocked",
+          "currentValue": "",
+          "notes": "Blocked on Brian. No rollout date yet.",
+          "nextAction": "Waiting on Brian",
+          "lastUpdated": "2026-08-11"
+        },
+        {
+          "id": 4,
+          "name": "Overall Games Accountability",
+          "thresholds": {
+            "superGreen": "Branch average total score 8 or higher (no individual score below 6)",
+            "green": "Branch average total score 7 or higher (no individual score below 6)",
+            "red": "Branch average total score less than 7"
+          },
+          "status": "blocked",
+          "currentValue": "",
+          "notes": "Week 3 with no data. Mike escalating to Madison directly.",
+          "nextAction": "Mike following up with Madison on activation",
+          "lastUpdated": "2026-08-18"
+        },
+        {
+          "id": 5,
+          "name": "BM Flex Goal",
+          "thresholds": {
+            "superGreen": "BM flex goal defined and approved by RGNL by AUG 15. Approved Super Green goal met by EOQ.",
+            "green": "BM flex goal defined and approved by RGNL by AUG 30. Approved Green goal met by EOQ.",
+            "red": "Flex goal undefined by AUG 30 or approved Green goal not met."
+          },
+          "status": "not_started",
+          "currentValue": "",
+          "notes": "Still not defined. Khevan has not thought about it. Mike gave examples (Garland: reviews, FW: onsites, Tampa: outside sales). Hard deadline this week.",
+          "nextAction": "Define and add to Monday board by 8/22",
+          "lastUpdated": "2026-08-18"
+        }
+      ],
+      "weeklyFocus": [
+        {
+          "weekOf": "2026-08-04",
+          "items": [
+            {
+              "description": "Catch up all Missing Contracts",
+              "completed": true,
+              "notes": "Confirmed done in 8/11 sync"
+            },
+            {
+              "description": "Get Xing iPad setup",
+              "completed": false,
+              "notes": "Not done. Needs Verizon store + Mike verification code. Carried to 8/11."
+            }
+          ]
+        },
+        {
+          "weekOf": "2026-08-11",
+          "items": [
+            {
+              "description": "SOP Training on mover training app",
+              "completed": true,
+              "notes": "Done. Both submitted screenshots."
+            },
+            {
+              "description": "Xing iPad setup (Verizon store + Mike verification code)",
+              "completed": false,
+              "notes": "Verizon bust (no physical SIM on A16). Chris re-enrolled eSIM 9:20am 8/18. Resetting to test."
+            }
+          ]
+        },
+        {
+          "weekOf": "2026-08-18",
+          "items": [
+            {
+              "description": "Xing iPad reset after eSIM re-enrollment",
+              "completed": null,
+              "notes": "Chris re-enrolled eSIM 9:20am 8/18. If still stuck, escalate again."
+            },
+            {
+              "description": "Ashley Ablets missing payment -- pester, escalate to CET Mon 8/24 if no response",
+              "completed": null,
+              "notes": "Outstanding since 7/21."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "zach-krodel",
+      "name": "Zach Krodel",
+      "role": "Ops",
+      "goals": [
+        {
+          "id": 1,
+          "name": "Mover Training App",
+          "thresholds": {
+            "superGreen": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete FULL pipeline (Lead Ready) by 10/19.",
+            "green": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete through stage 4 by EOQ.",
+            "red": "Less than 70% of enrolled movers complete through stage 4 by EOQ."
+          },
+          "status": "not_started",
+          "currentValue": "SOP training DONE. Movers blocked by Mike until 8/20.",
+          "notes": "Both submitted SOP training screenshots. Mike uploading movers 8/19, activation 8/20.",
+          "nextAction": "Hit ground running on mover training 8/20-21; brief absent movers (Sterling)",
+          "lastUpdated": "2026-08-18"
+        },
+        {
+          "id": 2,
+          "name": "Individual Sales Goal",
+          "thresholds": {
+            "superGreen": "110%+ to quarterly sales goal",
+            "green": "100%+ to quarterly sales goal",
+            "red": "Less than 100% to quarterly sales goal"
+          },
+          "status": "red",
+          "currentValue": "25% MTD, 14% QTD. Weekly goal 7500.",
+          "notes": "Mike flagged red. Week 1 drag, week 2 jumped. Needs catch-up. Three moves away from pacing.",
+          "nextAction": "Catch up on sales; log 4 praise entries by 8/22",
+          "lastUpdated": "2026-08-18"
+        },
+        {
+          "id": 3,
+          "name": "Scrum University",
+          "thresholds": {
+            "superGreen": "Scrum certification completed and 90+ grade on board scoring",
+            "green": "Scrum certification completed and 80+ grade on board scoring",
+            "red": "Any manager at branch not completed with scrum certification and/or board score below 80"
+          },
+          "status": "blocked",
+          "currentValue": "",
+          "notes": "Blocked on Brian. No rollout date yet.",
+          "nextAction": "Waiting on Brian",
+          "lastUpdated": "2026-08-11"
+        },
+        {
+          "id": 4,
+          "name": "Fleet Games Accountability",
+          "thresholds": {
+            "superGreen": "Branch Samsara score 8 or higher",
+            "green": "Branch Samsara score 7 or higher",
+            "red": "Branch Samsara score less than 7"
+          },
+          "status": "blocked",
+          "currentValue": "",
+          "notes": "Week 3 with no data. Mike escalating to Madison directly.",
+          "nextAction": "Mike following up with Madison on activation",
+          "lastUpdated": "2026-08-18"
+        },
+        {
+          "id": 5,
+          "name": "OPS Flex Goal",
+          "thresholds": {
+            "superGreen": "OPS flex goal defined and approved by RGNL by AUG 15. Approved Super Green goal met by EOQ.",
+            "green": "OPS flex goal defined and approved by RGNL by AUG 30. Approved Green goal met by EOQ.",
+            "red": "Flex goal undefined by AUG 30 or approved Green goal not met."
+          },
+          "status": "not_started",
+          "currentValue": "",
+          "notes": "Still not defined. Rolling over from last week. Hard deadline this week.",
+          "nextAction": "Define and submit to Mike by 8/22",
+          "lastUpdated": "2026-08-18"
+        }
+      ],
+      "weeklyFocus": [
+        {
+          "weekOf": "2026-08-04",
+          "items": [
+            {
+              "description": "Party completely planned",
+              "completed": true,
+              "notes": "Done. Hotel booked, $10/person breakfast, pool party at noon, pizza at noon."
+            },
+            {
+              "description": "All truck maintenance scheduled for next week",
+              "completed": true,
+              "notes": "Locked in. Backup cameras getting cleaned and recalibrated too."
+            }
+          ]
+        },
+        {
+          "weekOf": "2026-08-11",
+          "items": [
+            {
+              "description": "Truck maintenance (everything scheduled for tomorrow 8/12)",
+              "completed": true,
+              "notes": "Done. All truck maintenance sorted including backup cameras."
+            },
+            {
+              "description": "Define OPS flex goal",
+              "completed": false,
+              "notes": "Not done. Rolling to 8/18."
+            }
+          ]
+        },
+        {
+          "weekOf": "2026-08-18",
+          "items": [
+            {
+              "description": "Define OPS flex goal (rollover)",
+              "completed": null,
+              "notes": "Hard deadline -- must define by end of week 8/22"
+            },
+            {
+              "description": "Hit ground running on mover training 8/20-21; brief absent movers (Sterling)",
+              "completed": null,
+              "notes": "App activates 8/20. Several movers absent from QGR need briefing."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
