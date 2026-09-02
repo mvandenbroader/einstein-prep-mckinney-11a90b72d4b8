@@ -3,13 +3,13 @@
     "quarter": "Q3 2026",
     "quarterStart": "2026-08-01",
     "quarterEnd": "2026-10-31",
-    "generatedFor": "2026-08-24",
+    "generatedFor": "2026-08-31",
     "sourceLastGenerated": "2026-08-04T00:00:00"
   },
   "branch": {
     "id": "mckinney",
     "name": "McKinney",
-    "lastSync": "2026-08-18"
+    "lastSync": "2026-09-01"
   },
   "managers": [
     {
@@ -25,11 +25,11 @@
             "green": "100% manager sandbox by 8/19. 100% movers enrolled 8/20. 70%+ enrolled movers complete through stage 4 by EOQ.",
             "red": "Less than 70% of enrolled movers complete through stage 4 by EOQ."
           },
-          "status": "not_started",
-          "currentValue": "SOP training DONE. Movers blocked by Mike until 8/20.",
-          "notes": "Both submitted SOP training screenshots. Mike uploading movers 8/19, activation 8/20.",
-          "nextAction": "Hit ground running on mover training 8/20-21; brief absent movers (Sterling)",
-          "lastUpdated": "2026-08-18"
+          "status": "green",
+          "currentValue": "App live 1 month. A few movers in the 60s. Mentioning daily, coaching low performers.",
+          "notes": "Khevan (9/1 self-assessment): Green. Mentioning app daily in huddles, running coaching sessions for movers scoring in the 60s after 1 month live.",
+          "nextAction": "Continue daily mentions + targeted coaching for low performers",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 2,
@@ -39,11 +39,11 @@
             "green": "100%+ to quarterly sales goal",
             "red": "Less than 100% to quarterly sales goal"
           },
-          "status": "super_green",
-          "currentValue": "57% MTD, 26% remaining for quarter. 4K ahead of pace.",
-          "notes": "Super green confirmed. Leading DFW at 70% branch sales vs 52% company. Praise at 217%. Needs 3 more logged.",
-          "nextAction": "Maintain pace; log 3 more praise entries by 8/22",
-          "lastUpdated": "2026-08-18"
+          "status": "green",
+          "currentValue": "7% booked last week. Met August goal.",
+          "notes": "Khevan (9/1 self-assessment): Green. Booked 7% last week and met full August goal. Down from super green pace -- verify QTD % in meeting.",
+          "nextAction": "Maintain pace into September",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 3,
@@ -55,9 +55,9 @@
           },
           "status": "blocked",
           "currentValue": "",
-          "notes": "Blocked on Brian. No rollout date yet.",
-          "nextAction": "Waiting on Brian",
-          "lastUpdated": "2026-08-11"
+          "notes": "Blocked on Brian. No rollout date yet. Board scored F (47%) on 9/1 formal read -- Khevan decertified on first formal read.",
+          "nextAction": "Waiting on Brian for rollout; board discipline issues flagged separately",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 4,
@@ -67,25 +67,25 @@
             "green": "Branch average total score 7 or higher (no individual score below 6)",
             "red": "Branch average total score less than 7"
           },
-          "status": "blocked",
-          "currentValue": "",
-          "notes": "Week 3 with no data. Mike escalating to Madison directly.",
-          "nextAction": "Mike following up with Madison on activation",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "No actions taken. Games app inaccurate all quarter per Khevan.",
+          "notes": "Khevan (9/1 self-assessment): 'The games app has been inaccurate all quarter so I have not bothered looking at a broken clock.' No actions, no plan. Week 5 with no engagement. Data accuracy issue is real but zero effort is a concern.",
+          "nextAction": "Mike address disengagement in meeting. Escalate data accuracy to Matisen.",
+          "lastUpdated": "2026-09-01"
         },
         {
           "id": 5,
           "name": "BM Flex Goal",
           "thresholds": {
-            "superGreen": "BM flex goal defined and approved by RGNL by AUG 15. Approved Super Green goal met by EOQ.",
-            "green": "BM flex goal defined and approved by RGNL by AUG 30. Approved Green goal met by EOQ.",
-            "red": "Flex goal undefined by AUG 30 or approved Green goal not met."
+            "superGreen": "22%+ review attainment rate",
+            "green": "18%+ review attainment rate",
+            "red": "Drop in review percentage from Q2 (baseline ~13%)"
           },
-          "status": "not_started",
-          "currentValue": "",
-          "notes": "Still not defined. Khevan has not thought about it. Mike gave examples (Garland: reviews, FW: onsites, Tampa: outside sales). Hard deadline this week.",
-          "nextAction": "Define and add to Monday board by 8/22",
-          "lastUpdated": "2026-08-18"
+          "status": "red",
+          "currentValue": "Reviews. Running direct payouts for top review getters.",
+          "notes": "Khevan (9/1 self-assessment): Red. Flex goal now DEFINED as reviews. SG 22%+, G 18%, Red = drop from Q2 (~13%). Currently running payout incentives for top review-getters. Self-assesses Red if goal is 20%, Green if not dropping below 13% -- need to confirm which threshold applies.",
+          "nextAction": "Confirm flex goal thresholds with Mike in meeting. Verify current review %.",
+          "lastUpdated": "2026-09-01"
         }
       ],
       "weeklyFocus": [
@@ -124,13 +124,33 @@
           "items": [
             {
               "description": "Xing iPad reset after eSIM re-enrollment",
-              "completed": null,
-              "notes": "Chris re-enrolled eSIM 9:20am 8/18. If still stuck, escalate again."
+              "completed": false,
+              "notes": "Old iPad still lame per Khevan 9/1. New iPad arrived today. Setting up at home with reliable wifi."
             },
             {
               "description": "Ashley Ablets missing payment -- pester, escalate to CET Mon 8/24 if no response",
+              "completed": false,
+              "notes": "Ashleigh's assistant reached out. Khevan following up multiple times. Kick to CET by Friday 9/5."
+            }
+          ]
+        },
+        {
+          "weekOf": "2026-08-31",
+          "items": [
+            {
+              "description": "Set up new Xing iPad at home with reliable wifi",
               "completed": null,
-              "notes": "Outstanding since 7/21."
+              "notes": "New iPad arrived 9/1. Old one was unusable. Setting up at home."
+            },
+            {
+              "description": "Ashleigh Ablets -- follow up multiple times, kick to CET by Friday 9/5",
+              "completed": null,
+              "notes": "Carryover. Her assistant reached out. Escalation deadline Friday."
+            },
+            {
+              "description": "Figure out why Rippling cards take so long to ship",
+              "completed": null,
+              "notes": "New item. Khevan wants to understand the delay."
             }
           ]
         }
